@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+transformers[torch]
+torch
+scikit-learn
+numpy
+python-dotenv
